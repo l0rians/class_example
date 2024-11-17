@@ -1,3 +1,4 @@
 1. Banana
 2. Apple
 3. Orange
+4. Strawberry
